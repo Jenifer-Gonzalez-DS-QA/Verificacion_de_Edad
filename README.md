@@ -73,3 +73,17 @@ El modelo desarrollado demuestra un rendimiento prometedor en la estimación de 
     python run_model_on_gpu.py
     ```
     Este script generará la salida del entrenamiento y la evaluación final del MAE en la consola.
+
+-----
+
+## 👩‍💻 Autora
+
+*Jenifer Gonzalez*
+
+Data Science | QA Engineer | Scrum Master 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jenifer-paola-gonzalez-peñuela)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Jenifer-Gonzalez-DS-QA/jenifergon91))
+
+-----
+    
