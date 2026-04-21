@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo desarrollar y evaluar un modelo de aprendizaje
 Good Seed busca utilizar métodos de visión artificial para verificar la edad de los clientes en las cajas al comprar alcohol, reduciendo la incidencia de ventas a menores. La tarea es construir un modelo preciso que pueda estimar la edad a partir de una imagen.
 
 ## Dataset
-El dataset utilizado contiene fotografías faciales con sus respectivas edades reales. Se encuentra en la ruta `/datasets/faces/` y consta de:
+El dataset utilizado contiene fotografías faciales con sus respectivas edades reales. Se encuentra en la ruta `(https://www.kaggle.com/c/imagenet-object-localization-challenge/data)` y consta de:
 - La carpeta `final_files` con 7600 fotos.
 - El archivo `labels.csv` con dos columnas: `file_name` y `real_age`.
 
