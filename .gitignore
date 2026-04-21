@@ -1,0 +1,14 @@
+# Archivos y carpetas generados por Python
+__pycache__/
+*.pyc
+
+# Archivos específicos de Jupyter/Colab
+.ipynb_checkpoints/
+
+# Datos grandes que no deben subirse a GitHub
+complete_faces_dataset.zip
+final_files/
+
+# Archivos de registro y temporales
+*.log
+*.tmp
